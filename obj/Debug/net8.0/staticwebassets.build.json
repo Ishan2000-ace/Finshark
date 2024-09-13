@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ABq/QVhUeMdRvbaI85BZBsjUZ2Ac9vcdNzo2I19YuZU=",
+  "Source": ".NET_Core",
+  "BasePath": "_content/.NET_Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
